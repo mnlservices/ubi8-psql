@@ -9,3 +9,4 @@ De volgende software is geinstalleerd:
 
 
 # ubi8-psql
+# ubi8-psql
