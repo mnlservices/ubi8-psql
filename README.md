@@ -8,3 +8,4 @@ De volgende software is geinstalleerd:
 - helm plugin cm-push (voor push naar Chart Museum)
 
 
+# ubi8-psql
